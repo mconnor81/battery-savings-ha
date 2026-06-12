@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Battery Savings",
+        "description": "Set up battery savings tracking using Agile price and battery energy totals.",
+        "data": {
+          "agile_rate_entity": "Agile import rate entity",
+          "charge_total_entity": "Battery charge energy total entity",
+          "discharge_total_entity": "Battery discharge energy total entity",
+          "system_cost": "Battery system cost",
+          "starting_saving": "Starting saving"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "services": {},
+  "entity": {
+    "sensor.agile_import_rate_gbp": {
+      "default": "mdi:currency-gbp"
+    },
+    "sensor.battery_net_saving_lifetime": {
+      "default": "mdi:cash-multiple"
+    },
+    "sensor.battery_payback_remaining": {
+      "default": "mdi:battery-charging"
+    }
+  }
+}

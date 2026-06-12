@@ -1,0 +1,14 @@
+{
+  "domain": "battery_savings",
+  "name": "Battery Savings",
+  "codeowners": [
+    "@MatthewConnor"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/MatthewConnor/battery-savings-ha",
+  "integration_type": "helper",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "2.1.0"
+}
